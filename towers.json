@@ -450,6 +450,10 @@
       "XD": {
         "Difficulty": "Unknown",
         "NumDifficulty": 0.5
+      },
+      "Some other tower": {
+        "Difficulty": "Hard",
+        "NumDifficulty": 0.5
       }
     },
     "Monthly Challenges": {
@@ -660,7 +664,7 @@
       "Required": 0
     }
   },
-  "updatedAt": "2026-08-15T21:30:00Z",
+  "updatedAt": "2026-08-16T03:14:00Z",
   "difficulties": {
     "difficultyRatings": {
       "Hard": 3,
