@@ -402,6 +402,10 @@
       "ToMIM Sequel": {
         "Difficulty": "Unknown",
         "NumDifficulty": 0.5
+      },
+      "Tower of Eve Is Ent": {
+        "Difficulty": "Eschaton",
+        "NumDifficulty": 11.5
       }
     },
     "Forgotten Ridge": {
@@ -485,6 +489,10 @@
       },
       "28.5 Million Withdrawal (Floors 26-36)": {
         "Difficulty": "Terrifying",
+        "NumDifficulty": 0.5
+      },
+      "asdfgsfgsd fgsdgfb": {
+        "Difficulty": "Unknown",
         "NumDifficulty": 0.5
       }
     },
