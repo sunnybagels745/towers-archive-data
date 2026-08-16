@@ -703,7 +703,9 @@
       "Epic": 0,
       "Insane": 8,
       "Terrifying": 10,
-      "Medium": 2
+      "Medium": 2,
+      "oooOOOoOOOOooo above catastrophic difficulty OoOOooOOoo": 0,
+      "oooooo": 0
     },
     "numDifficultyRanges": [
       [
@@ -790,7 +792,9 @@
       "Epic": "#b5d2e6",
       "Unknown": "#77717c",
       "Gingerbread": "#7c5515",
-      "Medium": "#ffff00"
+      "Medium": "#ffff00",
+      "oooOOOoOOOOooo above catastrophic difficulty OoOOooOOoo": "#000000",
+      "oooooo": "#000000"
     }
   }
 }
