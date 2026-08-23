@@ -134,6 +134,10 @@
       "Tower of Outrageous": {
         "Difficulty": "Intense",
         "NumDifficulty": 0.5
+      },
+      "Tower of Serious Salt": {
+        "Difficulty": "Insane",
+        "NumDifficulty": 0.5
       }
     },
     "Ring 5": {
@@ -680,7 +684,7 @@
       "Required": 0
     }
   },
-  "updatedAt": "2026-08-16T03:14:00Z",
+  "updatedAt": "2026-08-23T00:00:00Z",
   "difficulties": {
     "difficultyRatings": {
       "Hard": 3,
