@@ -466,6 +466,10 @@
       "Some other tower": {
         "Difficulty": "Hard",
         "NumDifficulty": 0.5
+      },
+      "Tower of Uproar": {
+        "Difficulty": "Hard",
+        "NumDifficulty": 0.5
       }
     },
     "Monthly Challenges": {
