@@ -218,6 +218,10 @@
       "Tower of Nervous Sweating (Version 1)": {
         "Difficulty": "Hard",
         "NumDifficulty": 0.5
+      },
+      "Tower of Nervous Sweating (OG OG)": {
+        "Difficulty": "Hard",
+        "NumDifficulty": 0.5
       }
     },
     "Zones": {
@@ -688,7 +692,7 @@
       "Required": 0
     }
   },
-  "updatedAt": "2026-08-23T00:00:00Z",
+  "updatedAt": "2026-09-23T00:00:00Z",
   "difficulties": {
     "difficultyRatings": {
       "Hard": 3,
